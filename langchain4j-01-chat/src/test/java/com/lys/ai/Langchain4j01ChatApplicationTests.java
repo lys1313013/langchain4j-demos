@@ -11,7 +11,7 @@ class Langchain4j01ChatApplicationTests {
     private ChatModel chatModel;
 
     @Test
-    void contextLoads() {
+    void chat() {
         String generate = chatModel.chat("你好");
         System.out.println(generate);
     }

@@ -7,8 +7,8 @@
         <artifactId>langchain4j-example</artifactId>
         <version>1.0.0</version>
     </parent>
-    <artifactId>langchain4j-01simple</artifactId>
-    <name>langchain4j-01simple</name>
+    <artifactId>com.lys.ai</artifactId>
+    <name>langchain4j-01-chat</name>
     <description>langchain4j-01simple</description>
     <url/>
 
