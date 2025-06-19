@@ -1,0 +1,6 @@
+langchain4j:
+  open-ai:
+    chat-model:
+      api-key: ${DASHSCOPE_API_KEY:sk-XXXXXXXXXXXXXXXXX}
+      model-name: qwen-turbo
+      base-url: https://dashscope.aliyuncs.com/compatible-mode/v1
