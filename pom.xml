@@ -7,7 +7,7 @@
     <version>1.0.0</version>
     <packaging>pom</packaging>
 
-    <name>langchain4j-demos</name>
+    <name>langchain4j-01-demos</name>
 
     <properties>
         <spring-boot.version>3.3.9</spring-boot.version>
