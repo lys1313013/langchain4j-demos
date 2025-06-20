@@ -26,6 +26,9 @@
 
     <modules>
         <module>langchain4j-01-chat</module>
+        <module>langchain4j-02-chat-config</module>
+        <module>langchain4j-03-chat-aiservice</module>
+        <module>langchain4j-04-stream</module>
     </modules>
 
     <dependencyManagement>
