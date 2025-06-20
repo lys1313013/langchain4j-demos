@@ -1,1 +1,1 @@
-本项目主要为LangChain4j使用示例，参考自https://github.com/pig-mesh/langchain4j-course项目。
+本项目主要为LangChain4j使用示例，参考自https://github.com/pig-mesh/langchain4j-course 项目。

@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.lys.ai</groupId>
-    <artifactId>langchain4j-example</artifactId>
+    <artifactId>langchain4j-demos</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
 
-    <name>langchain4j-example</name>
+    <name>langchain4j-demos</name>
 
     <properties>
         <spring-boot.version>3.3.9</spring-boot.version>
