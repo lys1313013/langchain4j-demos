@@ -7,7 +7,7 @@
     <version>1.0.0</version>
     <packaging>pom</packaging>
 
-    <name>langchain4j-01-demos</name>
+    <name>langchain4j-demos</name>
 
     <properties>
         <spring-boot.version>3.3.9</spring-boot.version>
@@ -29,6 +29,7 @@
         <module>langchain4j-02-chat-config</module>
         <module>langchain4j-03-chat-aiservice</module>
         <module>langchain4j-04-stream</module>
+        <module>langchain4j-05-vision</module>
     </modules>
 
     <dependencyManagement>
