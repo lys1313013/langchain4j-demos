@@ -30,6 +30,9 @@
         <module>langchain4j-03-chat-aiservice</module>
         <module>langchain4j-04-stream</module>
         <module>langchain4j-05-vision</module>
+        <module>langchain4j-06-memory</module>
+        <module>langchain4j-07-prompt</module>
+        <module>langchain4j-08-json</module>
     </modules>
 
     <dependencyManagement>
