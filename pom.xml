@@ -33,6 +33,11 @@
         <module>langchain4j-06-memory</module>
         <module>langchain4j-07-prompt</module>
         <module>langchain4j-08-json</module>
+        <module>langchain4j-09-function</module>
+        <module>langchain4j-10-embedding-qdrant</module>
+        <module>langchain4j-11-embedding-classify</module>
+        <module>langchain4j-12-websearch</module>
+        <module>langchain4j-13-rag</module>
     </modules>
 
     <dependencyManagement>

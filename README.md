@@ -50,3 +50,42 @@ aiservice使用
 # 04-stream
 
 流式输出
+
+# 05-vision
+
+图片识别
+
+# 06-memroy
+
+记忆
+
+# 07-prompt
+
+提示词拼接
+
+# 08-json
+
+json格式输出
+
+# 09-function
+
+函数调用
+
+# 10-embedding-qdrant
+
+qdrant向量库创建集合、插入数据、查询数据
+
+# 11-embedding-classify
+
+基于向量实现文本分类
+
+# 12-websearch
+
+基于Tavily实现搜索
+
+# 13-rag
+
+基于txt和word实现rag流程
+
+
+
