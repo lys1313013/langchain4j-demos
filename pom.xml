@@ -38,6 +38,7 @@
         <module>langchain4j-11-embedding-classify</module>
         <module>langchain4j-12-websearch</module>
         <module>langchain4j-13-rag</module>
+        <module>langchian4j-14-memory-redis</module>
     </modules>
 
     <dependencyManagement>
