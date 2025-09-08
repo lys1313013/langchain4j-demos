@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-        <langchain4j.version>1.1.0</langchain4j.version>
+        <langchain4j.version>1.4.0</langchain4j.version>
     </properties>
 
     <dependencies>
@@ -25,7 +25,7 @@
     </dependencies>
 
     <modules>
-        <module>langchain4j-01-chat</module>
+        <module>langchain4j-01-chat-spring</module>
         <module>langchain4j-02-chat-config</module>
         <module>langchain4j-03-chat-aiservice</module>
         <module>langchain4j-04-stream</module>
